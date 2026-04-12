@@ -1,0 +1,134 @@
+{
+  "code": "Measure A",
+  "title_en": "Los Angeles County Homelessness Services and Affordable Housing Ordinance",
+  "title_es": "Ordenanza del Condado de Los Ángeles para Servicios a Personas sin Hogar y Vivienda Asequible",
+  "plain_summary_en": "Measure A would create a permanent half-cent (0.5%) sales tax across Los Angeles County to fund programs that reduce homelessness and build affordable housing. It would replace the existing quarter-cent (0.25%) tax — called Measure H — which is set to expire in 2027. The net effect is a permanent increase of an additional quarter-cent on top of what already exists. The tax is estimated to raise about $1.076 billion per year. An independent citizens' board and annual audits would oversee spending.",
+  "plain_summary_es": "La Medida A crearía un impuesto permanente sobre las ventas de medio centavo (0.5%) en todo el Condado de Los Ángeles para financiar programas que reduzcan la falta de vivienda y construyan viviendas asequibles. Reemplazaría el impuesto actual de un cuarto de centavo (0.25%) — conocido como Medida H — que está programado para vencer en 2027. El efecto neto es un aumento permanente de un cuarto de centavo adicional sobre lo que ya existe. Se estima que el impuesto recaudaría aproximadamente $1,076 millones al año. Una junta ciudadana independiente y auditorías anuales supervisarían el gasto.",
+  "what_yes_means_en": "A YES vote enacts the new permanent half-cent (0.5%) sales tax and repeals the existing quarter-cent Measure H tax. The county sales tax rate increases by a net 0.25%. Funding goes toward homelessness prevention, mental health and substance abuse treatment, affordable housing, and related services — with independent oversight and mandatory annual audits.",
+  "what_yes_means_es": "Un voto SÍ aprueba el nuevo impuesto permanente de medio centavo (0.5%) sobre las ventas y deroga el impuesto actual de un cuarto de centavo de la Medida H. La tasa del impuesto sobre las ventas del condado aumenta en un 0.25% neto. Los fondos se destinan a prevención de la falta de vivienda, tratamiento de salud mental y abuso de sustancias, vivienda asequible y servicios relacionados, con supervisión independiente y auditorías anuales obligatorias.",
+  "what_no_means_en": "A NO vote means the new half-cent tax is not enacted. The existing quarter-cent Measure H tax stays in effect until it expires in 2027, and no new permanent tax is created.",
+  "what_no_means_es": "Un voto NO significa que el nuevo impuesto de medio centavo no se aprueba. El impuesto actual de un cuarto de centavo de la Medida H permanece vigente hasta que vence en 2027, y no se crea ningún nuevo impuesto permanente.",
+  "fiscal_impact_en": "The half-cent sales tax is estimated to generate approximately $1.076 billion per year. Of that: 61.25% goes to the County for homelessness prevention, mental health, and substance abuse services; 35.75% goes to the LA County Affordable Housing Solutions Agency for affordable housing; and 3% goes to the LA County Development Authority for administrative oversight. The tax has no expiration date.",
+  "fiscal_impact_es": "Se estima que el impuesto de medio centavo sobre las ventas generará aproximadamente $1,076 millones al año. De ese total: el 61.25% va al Condado para prevención de la falta de vivienda y servicios de salud mental y abuso de sustancias; el 35.75% va a la Agencia de Soluciones de Vivienda Asequible del Condado de Los Ángeles; y el 3% va a la Autoridad de Desarrollo del Condado de Los Ángeles para supervisión administrativa. El impuesto no tiene fecha de vencimiento.",
+  "arguments": [
+    {
+      "side": "pro",
+      "summary_en": "Supporters say Measure A improves on the existing Measure H by adding stronger accountability: mandatory independent audits and a citizens' oversight board that reports on outcomes. They say it funds more permanent affordable housing for seniors, veterans, disabled residents, and working families, expands mental health and drug treatment, and provides stable long-term funding to address the homelessness crisis.",
+      "summary_es": "Los partidarios dicen que la Medida A mejora la Medida H existente al añadir mayor rendición de cuentas: auditorías independientes obligatorias y una junta ciudadana de supervisión que informa sobre resultados. Afirman que financia más vivienda asequible permanente para personas mayores, veteranos, personas con discapacidad y familias trabajadoras, amplía el tratamiento de salud mental y drogadicción, y proporciona financiamiento estable a largo plazo para atender la crisis de personas sin hogar.",
+      "author": null
+    },
+    {
+      "side": "con",
+      "summary_en": "Opponents say Measure A doubles the existing homelessness sales tax and makes it permanent, even though billions have already been spent with worsening results. They argue the tax is regressive — it hits working families and seniors on fixed incomes the hardest — and that in many areas the county sales tax already exceeds 10%. They say the county should show results before voters are asked for more money.",
+      "summary_es": "Los opositores dicen que la Medida A duplica el impuesto sobre las ventas para personas sin hogar y lo hace permanente, aunque ya se han gastado miles de millones con resultados que han empeorado. Argumentan que el impuesto es regresivo — afecta más duramente a las familias trabajadoras y a las personas mayores con ingresos fijos — y que en muchas áreas el impuesto sobre las ventas del condado ya supera el 10%. Dicen que el condado debería demostrar resultados antes de pedir más dinero a los votantes.",
+      "author": null
+    }
+  ],
+  "impacts": [
+    {
+      "topic": "homelessness",
+      "direction": 1,
+      "confidence": 90,
+      "rationale_en": "The measure is explicitly designed to fund homelessness prevention, mental health treatment, substance abuse treatment, and related services, raising an estimated $1.076 billion annually for these purposes.",
+      "rationale_es": "La medida está diseñada explícitamente para financiar la prevención de la falta de vivienda, tratamiento de salud mental, tratamiento del abuso de sustancias y servicios relacionados, recaudando aproximadamente $1,076 millones anuales para estos fines."
+    },
+    {
+      "topic": "housing",
+      "direction": 1,
+      "confidence": 90,
+      "rationale_en": "35.75% of revenue is allocated to the LA County Affordable Housing Solutions Agency for affordable housing, including for seniors, veterans, disabled people, and low-income families.",
+      "rationale_es": "El 35.75% de los ingresos se destina a la Agencia de Soluciones de Vivienda Asequible del Condado de Los Ángeles para vivienda asequible, incluidas personas mayores, veteranos, personas con discapacidad y familias de bajos ingresos."
+    },
+    {
+      "topic": "healthcare",
+      "direction": 1,
+      "confidence": 85,
+      "rationale_en": "The measure funds mental health treatment and drug and alcohol treatment as part of the homelessness services package.",
+      "rationale_es": "La medida financia tratamiento de salud mental y tratamiento de alcohol y drogas como parte del paquete de servicios para personas sin hogar."
+    },
+    {
+      "topic": "taxes",
+      "direction": -1,
+      "confidence": 95,
+      "rationale_en": "The measure permanently increases the sales and use tax rate by a net 0.25% (from 0.25% to 0.5%), with no expiration date.",
+      "rationale_es": "La medida aumenta permanentemente la tasa del impuesto sobre las ventas y el uso en un 0.25% neto (de 0.25% a 0.5%), sin fecha de vencimiento."
+    },
+    {
+      "topic": "government-reform",
+      "direction": 1,
+      "confidence": 80,
+      "rationale_en": "The measure requires independent citizens' oversight and mandatory annual audits to monitor how funds are spent.",
+      "rationale_es": "La medida exige supervisión ciudadana independiente y auditorías anuales obligatorias para vigilar cómo se gastan los fondos."
+    }
+  ],
+  "supporters": [
+    {
+      "name": "Los Angeles County Federation of Labor",
+      "role": "support"
+    },
+    {
+      "name": "United Way of Greater Los Angeles",
+      "role": "support"
+    }
+  ],
+  "opponents": [
+    {
+      "name": "Howard Jarvis Taxpayers Association",
+      "role": "oppose"
+    }
+  ],
+  "funding": {
+    "support_total_usd": 20000000,
+    "oppose_total_usd": null,
+    "is_approximate": true,
+    "notes_en": "Support committees raised approximately $20 million as of October 2024, largely from housing and labor organizations. Opposition committees had minimal formal campaign spending; no dollar amount provided.",
+    "notes_es": "Los comités de apoyo recaudaron aproximadamente $20 millones hasta octubre de 2024, en gran parte de organizaciones de vivienda y trabajo. Los comités de oposición tuvieron un gasto formal mínimo en campaña; no se proporcionó ninguna cifra en dólares."
+  },
+  "source_citations": [
+    {
+      "claim": "Measure A imposes a permanent 0.5% sales and use tax throughout LA County",
+      "quote": "Measure A would enact an ordinance imposing a permanent one-half percent (0.5%) sales and use tax throughout Los Angeles County, including within incorporated cities, to fund programs that reduce and prevent homelessness and provide affordable housing."
+    },
+    {
+      "claim": "Measure A replaces the existing Measure H quarter-cent tax that expires in 2027",
+      "quote": "The measure would repeal the existing one-quarter percent (0.25%) sales and use tax enacted by voters as Measure H in 2017, which is otherwise scheduled to expire in 2027."
+    },
+    {
+      "claim": "The net effect is a permanent increase of 0.25%",
+      "quote": "The net effect of Measure A is to increase the existing sales and use tax rate by one-quarter percent (0.25%) and to make that increase permanent."
+    },
+    {
+      "claim": "A NO vote keeps Measure H in place until 2027",
+      "quote": "A \"no\" vote is a vote against enacting the new tax; the existing quarter-percent tax would continue until it expires in 2027."
+    },
+    {
+      "claim": "Estimated to generate approximately $1.076 billion per year",
+      "quote": "the half percent (0.5%) sales and use tax is estimated to generate approximately $1.076 billion in local government revenue in the first year of collection, with collections continuing in perpetuity."
+    },
+    {
+      "claim": "Revenue allocation: 61.25% to County, 35.75% to housing agency, 3% to development authority",
+      "quote": "Revenue is allocated as follows: 61.25% to the County for homelessness prevention, mental health treatment, substance abuse treatment, and related services; 35.75% to the Los Angeles County Affordable Housing Solutions Agency for affordable housing; and 3% to the Los Angeles County Development Authority for administrative oversight."
+    },
+    {
+      "claim": "Annual independent audits are required and the measure has no expiration date",
+      "quote": "Annual independent audits are required. The measure has no expiration date."
+    },
+    {
+      "claim": "Opponents say the tax is regressive and falls hardest on working families and seniors",
+      "quote": "This measure is regressive — it falls hardest on working families and seniors on fixed incomes who can least afford it."
+    },
+    {
+      "claim": "Opponents note the county sales tax already exceeds 10% in many areas",
+      "quote": "Los Angeles County's sales tax already exceeds 10% in many areas, higher than almost anywhere in the country."
+    },
+    {
+      "claim": "Support committees raised approximately $20 million",
+      "quote": "Support committees: ~$20M raised, largely from housing and labor organizations."
+    },
+    {
+      "claim": "Opposition committees had minimal formal campaign spending",
+      "quote": "Opposition committees: minimal formal campaign spending."
+    }
+  ],
+  "reviewer_notes_en": "The 'Listed Supporters' section names 'various housing and homeless services nonprofits' and 'several LA County Supervisors' without specific names — these were excluded from the supporters array per Rule 7. Similarly, 'various taxpayer advocacy groups' was excluded from opponents. The arguments in the pamphlet are not signed by named individuals, so 'author' is null for both. The fiscal impact figures are drawn from the official Fiscal Impact Statement and the Impartial Analysis."
+}

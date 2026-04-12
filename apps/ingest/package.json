@@ -1,0 +1,25 @@
+{
+  "name": "civic-mirror-ingest",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Ingestion pipeline for Civic Mirror: extract plain-language EN/ES summaries of ballot measures from voter pamphlets using Claude.",
+  "type": "module",
+  "scripts": {
+    "extract": "tsx src/extract.ts",
+    "extract:measure-a": "tsx src/extract.ts sample-data/measure-a-nov-2024.txt",
+    "extract:measure-g": "tsx src/extract.ts sample-data/measure-g-nov-2024.txt",
+    "extract:measure-a:write": "tsx src/extract.ts sample-data/measure-a-nov-2024.txt --write",
+    "extract:measure-g:write": "tsx src/extract.ts sample-data/measure-g-nov-2024.txt --write",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.32.1",
+    "@supabase/supabase-js": "^2.103.0",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}

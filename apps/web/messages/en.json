@@ -1,0 +1,99 @@
+{
+  "meta": {
+    "siteName": "Civic Mirror",
+    "tagline": "See what's on your ballot. In plain English."
+  },
+  "nav": {
+    "home": "Home",
+    "ballot": "My ballot",
+    "quiz": "Values quiz",
+    "about": "How we made this",
+    "switchLanguage": "Español"
+  },
+  "landing": {
+    "heading": "Your vote, clearly explained.",
+    "subheading": "Civic Mirror walks you through every measure on your Los Angeles County ballot in plain English — sorted by what matters to you. Take the 2-minute values quiz and we'll show you which way to vote and why.",
+    "primaryCta": "Start the values quiz",
+    "secondaryCta": "Skip to my ballot",
+    "howItWorksHeading": "How it works",
+    "step1": "Tell us what you care about (12 quick sliders).",
+    "step2": "We sort the measures on your ballot by alignment with your priorities.",
+    "step3": "Each one comes with a plain-language summary, source quotes, and who's funding it.",
+    "trustNote": "Nonpartisan. Every claim links back to the official voter pamphlet.",
+    "noElectionData": "No published measures yet. Check back soon."
+  },
+  "ballot": {
+    "heading": "Your ballot",
+    "subheading": "Sorted by how well each measure lines up with the priorities you set in the quiz.",
+    "noPriorities": "You haven't taken the quiz yet — measures are listed in default order.",
+    "takeQuiz": "Take the 2-minute quiz",
+    "retakeQuiz": "Retake the quiz",
+    "viewMeasure": "Read the full breakdown",
+    "leanYes": "Likely YES for you",
+    "leanNo": "Likely NO for you",
+    "leanTossUp": "Toss-up",
+    "leanUnknown": "No alignment yet",
+    "whyHeading": "Why we say this",
+    "becauseYouCareAbout": "Because you care about",
+    "noContributors": "Take the quiz to see why this measure matches you.",
+    "emptyState": "No measures published yet.",
+    "ofTotal": "of {count}"
+  },
+  "measure": {
+    "backToBallot": "← Back to my ballot",
+    "summaryHeading": "What it does",
+    "whatYesMeans": "What a YES vote does",
+    "whatNoMeans": "What a NO vote does",
+    "fiscalImpact": "Fiscal impact",
+    "argumentsFor": "Arguments in favor",
+    "argumentsAgainst": "Arguments against",
+    "supporters": "Endorsing this",
+    "opponents": "Opposing this",
+    "funding": "Who's funding this",
+    "sources": "Sources",
+    "sourcesIntro": "Every claim above traces back to one of these verbatim quotes from the official voter pamphlet.",
+    "fundingSupport": "Support side",
+    "fundingOppose": "Oppose side",
+    "noFunding": "No funding data available yet.",
+    "approxPrefix": "~",
+    "noAuthor": "Argument signers not listed in the pamphlet.",
+    "notFound": "Measure not found.",
+    "yourLean": "Your alignment"
+  },
+  "quiz": {
+    "heading": "What do you care about?",
+    "instructions": "Drag each slider to show how important the topic is to you. We use these weights to sort your ballot — we never share or sell them, and they live in a cookie on this device only.",
+    "weightNot": "Not important",
+    "weightSlightly": "Slightly",
+    "weightSomewhat": "Somewhat",
+    "weightImportant": "Important",
+    "weightCritical": "Critical",
+    "submit": "See my ballot",
+    "skip": "Skip — show me everything",
+    "savedNote": "Your priorities are saved on this device only.",
+    "topicHelpHeading": "What does each topic cover?",
+    "topics": {
+      "housing": "Housing",
+      "homelessness": "Homelessness",
+      "public-safety": "Public safety",
+      "criminal-justice": "Criminal justice",
+      "education": "Education",
+      "transit": "Transit",
+      "climate": "Climate",
+      "healthcare": "Healthcare",
+      "taxes": "Taxes",
+      "civil-rights": "Civil rights",
+      "government-reform": "Government reform",
+      "economy": "Economy"
+    }
+  },
+  "summary": {
+    "heading": "Your ballot summary",
+    "print": "Print",
+    "share": "Share"
+  },
+  "about": {
+    "heading": "How we made this",
+    "body": "Civic Mirror is a nonpartisan voter tool. Every plain-language summary is generated from official voter-pamphlet text and reviewed by a human before it's published. We show you the source quotes for every claim so you can check our work."
+  }
+}

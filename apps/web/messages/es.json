@@ -1,0 +1,99 @@
+{
+  "meta": {
+    "siteName": "Civic Mirror",
+    "tagline": "Lo que aparece en tu boleta. En lenguaje claro."
+  },
+  "nav": {
+    "home": "Inicio",
+    "ballot": "Mi boleta",
+    "quiz": "Cuestionario de valores",
+    "about": "Cómo se hizo esto",
+    "switchLanguage": "English"
+  },
+  "landing": {
+    "heading": "Tu voto, explicado con claridad.",
+    "subheading": "Civic Mirror te guía por cada medida de tu boleta del Condado de Los Ángeles en lenguaje claro — ordenadas según lo que te importa. Toma el cuestionario de 2 minutos y te diremos cómo votar y por qué.",
+    "primaryCta": "Empezar el cuestionario",
+    "secondaryCta": "Ir directo a mi boleta",
+    "howItWorksHeading": "Cómo funciona",
+    "step1": "Cuéntanos qué te importa (12 controles rápidos).",
+    "step2": "Ordenamos las medidas de tu boleta según coincidan con tus prioridades.",
+    "step3": "Cada medida viene con un resumen en lenguaje claro, citas de la fuente y quién la financia.",
+    "trustNote": "No partidista. Cada afirmación enlaza al panfleto oficial del votante.",
+    "noElectionData": "Aún no hay medidas publicadas. Vuelve pronto."
+  },
+  "ballot": {
+    "heading": "Tu boleta",
+    "subheading": "Ordenadas según qué tan bien coincide cada medida con las prioridades que indicaste en el cuestionario.",
+    "noPriorities": "Aún no has tomado el cuestionario — las medidas aparecen en orden por defecto.",
+    "takeQuiz": "Tomar el cuestionario de 2 minutos",
+    "retakeQuiz": "Volver a tomar el cuestionario",
+    "viewMeasure": "Ver el desglose completo",
+    "leanYes": "Probablemente SÍ para ti",
+    "leanNo": "Probablemente NO para ti",
+    "leanTossUp": "Indeciso",
+    "leanUnknown": "Sin coincidencia aún",
+    "whyHeading": "Por qué decimos esto",
+    "becauseYouCareAbout": "Porque te importa",
+    "noContributors": "Toma el cuestionario para ver por qué esta medida coincide contigo.",
+    "emptyState": "Aún no hay medidas publicadas.",
+    "ofTotal": "de {count}"
+  },
+  "measure": {
+    "backToBallot": "← Volver a mi boleta",
+    "summaryHeading": "Qué hace",
+    "whatYesMeans": "Qué significa un voto SÍ",
+    "whatNoMeans": "Qué significa un voto NO",
+    "fiscalImpact": "Impacto fiscal",
+    "argumentsFor": "Argumentos a favor",
+    "argumentsAgainst": "Argumentos en contra",
+    "supporters": "A favor",
+    "opponents": "En contra",
+    "funding": "Quién financia esto",
+    "sources": "Fuentes",
+    "sourcesIntro": "Cada afirmación arriba se respalda con una de estas citas literales del panfleto oficial del votante.",
+    "fundingSupport": "Lado a favor",
+    "fundingOppose": "Lado en contra",
+    "noFunding": "Aún no hay datos de financiamiento.",
+    "approxPrefix": "~",
+    "noAuthor": "El panfleto no nombra a los firmantes del argumento.",
+    "notFound": "Medida no encontrada.",
+    "yourLean": "Tu coincidencia"
+  },
+  "quiz": {
+    "heading": "¿Qué te importa?",
+    "instructions": "Arrastra cada control para indicar qué tan importante es el tema para ti. Usamos estos valores para ordenar tu boleta — nunca los compartimos ni vendemos, y viven solo en una cookie de este dispositivo.",
+    "weightNot": "No importa",
+    "weightSlightly": "Poco",
+    "weightSomewhat": "Algo",
+    "weightImportant": "Importante",
+    "weightCritical": "Crítico",
+    "submit": "Ver mi boleta",
+    "skip": "Saltar — muéstrame todo",
+    "savedNote": "Tus prioridades se guardan solo en este dispositivo.",
+    "topicHelpHeading": "¿Qué cubre cada tema?",
+    "topics": {
+      "housing": "Vivienda",
+      "homelessness": "Personas sin hogar",
+      "public-safety": "Seguridad pública",
+      "criminal-justice": "Justicia penal",
+      "education": "Educación",
+      "transit": "Transporte",
+      "climate": "Clima",
+      "healthcare": "Salud",
+      "taxes": "Impuestos",
+      "civil-rights": "Derechos civiles",
+      "government-reform": "Reforma de gobierno",
+      "economy": "Economía"
+    }
+  },
+  "summary": {
+    "heading": "Resumen de tu boleta",
+    "print": "Imprimir",
+    "share": "Compartir"
+  },
+  "about": {
+    "heading": "Cómo se hizo esto",
+    "body": "Civic Mirror es una herramienta no partidista para votantes. Cada resumen en lenguaje claro se genera a partir del texto oficial del panfleto del votante y es revisado por una persona antes de publicarse. Te mostramos las citas de la fuente para cada afirmación para que puedas verificar nuestro trabajo."
+  }
+}

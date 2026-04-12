@@ -1,0 +1,148 @@
+{
+  "code": "Measure G",
+  "title_en": "Los Angeles County Government Structure, Ethics and Accountability Charter Amendment",
+  "title_es": "Enmienda a la Carta Orgánica del Condado de Los Ángeles sobre Estructura de Gobierno, Ética y Rendición de Cuentas",
+  "plain_summary_en": "Measure G would update the LA County Charter — last majorly changed in 1912 — in five ways: (1) create a new elected County Executive to run day-to-day government; (2) grow the Board of Supervisors from 5 to 9 members; (3) create an independent Ethics Commission to investigate misconduct and limit lobbying; (4) create a nonpartisan Legislative Analyst to review County policies; and (5) require department budgets to be presented at public meetings. No new taxes would be needed.",
+  "plain_summary_es": "La Medida G actualizaría la Carta Orgánica del Condado de LA — modificada por última vez de forma importante en 1912 — de cinco maneras: (1) crear un Director Ejecutivo del Condado elegido por los votantes; (2) ampliar la Junta de Supervisores de 5 a 9 miembros; (3) crear una Comisión de Ética independiente para investigar irregularidades y limitar el cabildeo; (4) crear una Oficina de Analistas Legislativos no partidista; y (5) exigir que los presupuestos departamentales se presenten en reuniones públicas. No se necesitarían nuevos impuestos.",
+  "what_yes_means_en": "A YES vote adopts all five charter changes: an elected County Executive, a 9-member Board of Supervisors, an independent Ethics Commission, a nonpartisan Legislative Analyst, and required public budget meetings.",
+  "what_yes_means_es": "Un voto SÍ aprueba los cinco cambios a la Carta Orgánica: un Director Ejecutivo elegido, una Junta de Supervisores de 9 miembros, una Comisión de Ética independiente, un Analista Legislativo no partidista y reuniones públicas obligatorias sobre el presupuesto.",
+  "what_no_means_en": "A NO vote leaves the existing charter in place — keeping the five-member Board of Supervisors and the appointed Chief Executive Officer.",
+  "what_no_means_es": "Un voto NO mantiene la Carta Orgánica actual — conservando la Junta de Supervisores de cinco miembros y el Director Ejecutivo nombrado (no elegido).",
+  "fiscal_impact_en": "No new taxes. One-time startup costs are estimated at approximately $8 million or more, paid for by shifting money within the existing county budget (about $45 billion per year). Ongoing costs for the larger Board, Ethics Commission, and Legislative Analyst are also to be covered within existing funds.",
+  "fiscal_impact_es": "Sin nuevos impuestos. Los costos iniciales únicos se estiman en aproximadamente $8 millones o más, financiados mediante la reasignación de recursos dentro del presupuesto actual del condado (aproximadamente $45 mil millones al año). Los costos continuos de la Junta ampliada, la Comisión de Ética y la Oficina de Analistas también se cubrirían con fondos existentes.",
+  "arguments": [
+    {
+      "side": "pro",
+      "summary_en": "The county charter hasn't had a serious update since 1912. Each supervisor now represents 2 million people — more than most U.S. senators. Measure G makes government more accountable by adding an elected executive, more supervisors, an ethics watchdog, and public budget hearings, all without raising taxes.",
+      "summary_es": "La Carta Orgánica del condado no ha tenido una actualización importante desde 1912. Cada supervisor ahora representa a 2 millones de personas. La Medida G hace el gobierno más responsable al añadir un ejecutivo elegido, más supervisores, un organismo de ética y audiencias públicas sobre el presupuesto, todo sin aumentar impuestos.",
+      "author": null
+    },
+    {
+      "side": "con",
+      "summary_en": "Measure G adds new bureaucracy without solving real problems. An elected County Executive with no term limits could concentrate too much power in one office. The $8 million cost could instead fund homelessness, mental health, or public safety services.",
+      "summary_es": "La Medida G añade burocracia sin resolver problemas reales. Un Director Ejecutivo del Condado elegido y sin límites de mandato podría concentrar demasiado poder en una sola oficina. Los $8 millones de costo podrían usarse en servicios de personas sin hogar, salud mental o seguridad pública.",
+      "author": null
+    }
+  ],
+  "impacts": [
+    {
+      "topic": "government-reform",
+      "direction": 1,
+      "confidence": 95,
+      "rationale_en": "The measure directly restructures county government: elected executive, larger board, ethics commission, nonpartisan analyst, and public budget meetings.",
+      "rationale_es": "La medida reestructura directamente el gobierno del condado: ejecutivo elegido, junta más grande, comisión de ética, analista no partidista y reuniones públicas sobre el presupuesto."
+    },
+    {
+      "topic": "taxes",
+      "direction": 0,
+      "confidence": 85,
+      "rationale_en": "No new taxes are imposed. However, approximately $8 million or more in existing funds would be reallocated for implementation costs.",
+      "rationale_es": "No se imponen nuevos impuestos. Sin embargo, aproximadamente $8 millones o más de fondos existentes se reasignarían para los costos de implementación."
+    },
+    {
+      "topic": "economy",
+      "direction": 0,
+      "confidence": 40,
+      "rationale_en": "Opponents argue the implementation cost could divert funds from services; supporters say no new taxes are needed. Net economic impact is uncertain.",
+      "rationale_es": "Los opositores argumentan que el costo podría desviar fondos de servicios; los partidarios dicen que no se necesitan nuevos impuestos. El impacto económico neto es incierto."
+    }
+  ],
+  "supporters": [
+    {
+      "name": "Supervisor Lindsey Horvath",
+      "role": "support"
+    },
+    {
+      "name": "Supervisor Janice Hahn",
+      "role": "support"
+    }
+  ],
+  "opponents": [
+    {
+      "name": "Supervisor Kathryn Barger",
+      "role": "oppose"
+    },
+    {
+      "name": "Supervisor Holly J. Mitchell",
+      "role": "oppose"
+    },
+    {
+      "name": "LA County Firefighters",
+      "role": "oppose"
+    },
+    {
+      "name": "LA County Sheriffs",
+      "role": "oppose"
+    },
+    {
+      "name": "Community Coalition",
+      "role": "oppose"
+    }
+  ],
+  "funding": {
+    "support_total_usd": 2000000,
+    "oppose_total_usd": 1000000,
+    "is_approximate": true,
+    "notes_en": "Figures are approximate as of October 2024.",
+    "notes_es": "Las cifras son aproximadas a octubre de 2024."
+  },
+  "source_citations": [
+    {
+      "claim": "Charter last substantially revised in 1912",
+      "quote": "Los Angeles County Charter — last substantially revised in 1912"
+    },
+    {
+      "claim": "Board of Supervisors expanded from 5 to 9",
+      "quote": "Expand the Board of Supervisors from five seats to nine seats over a phased implementation"
+    },
+    {
+      "claim": "New elected County Executive",
+      "quote": "Create a new elected County Executive, directly accountable to voters, responsible for day-to-day administration currently handled by the appointed Chief Executive Officer."
+    },
+    {
+      "claim": "Independent Ethics Commission with two-year lobbying ban",
+      "quote": "Establish an independent Ethics Commission with authority to investigate misconduct by County officials and employees and to enforce lobbying restrictions, including a two-year post-employment lobbying ban for former officials."
+    },
+    {
+      "claim": "Nonpartisan Legislative Analyst",
+      "quote": "Establish a nonpartisan County Legislative Analyst's office to provide independent fiscal and policy analysis of proposed actions."
+    },
+    {
+      "claim": "Public budget meetings required",
+      "quote": "Require each County department to present its annual budget at a public meeting."
+    },
+    {
+      "claim": "No new taxes",
+      "quote": "Implementation is to be funded through the existing County budget (approximately $45 billion annually) with no new taxes."
+    },
+    {
+      "claim": "One-time costs approximately $8 million or more",
+      "quote": "One-time implementation costs are estimated at approximately $8 million or more, to be absorbed by reallocating existing resources."
+    },
+    {
+      "claim": "Each supervisor now represents two million people",
+      "quote": "Today, each one represents two million — more than most U.S. senators."
+    },
+    {
+      "claim": "NO vote keeps five-member Board and appointed CEO",
+      "quote": "A 'no' vote leaves the existing charter in place with its five-member Board of Supervisors and appointed CEO."
+    },
+    {
+      "claim": "Opposition argument about power concentration and no term limits",
+      "quote": "Creating a new elected County Executive for 10 million residents — with no term limits — risks concentrating power in a single office"
+    },
+    {
+      "claim": "Opposition argument about $8 million going to other services",
+      "quote": "The $8 million implementation cost is money that could go to homelessness, mental health, or public safety."
+    },
+    {
+      "claim": "Support funding approximately $2M",
+      "quote": "Support committees: ~$2M raised."
+    },
+    {
+      "claim": "Opposition funding approximately $1M",
+      "quote": "Opposition committees: ~$1M raised."
+    }
+  ],
+  "reviewer_notes_en": "The source text does not name the specific signers of the pro or con pamphlet arguments, so 'author' is null for both. The supporters list includes 'various good-government and civic reform organizations' and the opponents list includes 'various labor and community groups' — these vague groupings are excluded per rules. The fiscal impact note says 'approximately $8 million or more,' preserving uncertainty. The con argument references 'firefighters, sheriffs' deputies, and frontline labor groups' as opposition sources — only the specifically named organizations (LA County Firefighters, LA County Sheriffs, Community Coalition) are included in the opponents array."
+}
