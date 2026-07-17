@@ -1,7 +1,7 @@
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import { Link } from "@/i18n/navigation";
 import { listPublishedMeasures, type PublicMeasureSummary } from "@/lib/measures/public";
-import { readPriorities, hasTakenQuiz, hasAnyPriorities, type Priorities } from "@/lib/priorities/cookie";
+import { readPriorities, hasTakenQuiz } from "@/lib/priorities/cookie";
 import { scoreMeasure, leanLabel, type AlignmentScore } from "@/lib/alignment/score";
 import { TOPIC_SLUGS, type TopicSlug } from "@/lib/topics";
 
