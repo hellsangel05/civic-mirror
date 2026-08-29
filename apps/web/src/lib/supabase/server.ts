@@ -16,8 +16,10 @@ export function getSupabaseServiceClient(): SupabaseClient {
       "Supabase server env missing: set NEXT_PUBLIC_SUPABASE_URL and SUPABASE_SERVICE_ROLE_KEY.",
     );
   }
+  const schema = process.env.NEXT_PUBLIC_SUPABASE_SCHEMA || "public";
   cachedServiceClient = createClient(url, serviceKey, {
     auth: { persistSession: false, autoRefreshToken: false },
-  });
+    db: { schema },
+  }) as SupabaseClient;
   return cachedServiceClient;
 }

@@ -16,8 +16,10 @@ export function getIngestSupabaseClient(): SupabaseClient {
       "Supabase env missing for ingest: set NEXT_PUBLIC_SUPABASE_URL and SUPABASE_SERVICE_ROLE_KEY in apps/ingest/.env.",
     );
   }
+  const schema = process.env.NEXT_PUBLIC_SUPABASE_SCHEMA || "public";
   cached = createClient(url, serviceKey, {
     auth: { persistSession: false, autoRefreshToken: false },
-  });
+    db: { schema },
+  }) as SupabaseClient;
   return cached;
 }

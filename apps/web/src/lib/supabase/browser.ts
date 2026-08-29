@@ -17,6 +17,9 @@ export function getSupabaseBrowserClient(): SupabaseClient {
       "Supabase browser env missing: set NEXT_PUBLIC_SUPABASE_URL and NEXT_PUBLIC_SUPABASE_ANON_KEY.",
     );
   }
-  cachedBrowserClient = createClient(url, anonKey);
+  const schema = process.env.NEXT_PUBLIC_SUPABASE_SCHEMA || "public";
+  cachedBrowserClient = createClient(url, anonKey, {
+    db: { schema },
+  }) as SupabaseClient;
   return cachedBrowserClient;
 }
