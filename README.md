@@ -5,7 +5,9 @@ to plain-language explanations of local measures. A short quiz organizes the bal
 topics a voter cares about, then exposes the alignment reasoning, tradeoffs, and supporting sources
 without telling the voter how to vote.
 
-**Status:** Built and pre-launch. The repository currently uses reconstructed representative sample
+[Portfolio case study](https://angel-gonzalez-dev.vercel.app/work/civic-mirror) | [Application](https://web-tau-drab-10.vercel.app/en)
+
+**Development dataset:** The repository uses reconstructed representative sample
 content for product and extraction testing. It is not an official voter guide and should not be used
 to make voting decisions.
 
