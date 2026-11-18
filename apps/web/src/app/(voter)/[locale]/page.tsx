@@ -10,8 +10,14 @@ export default async function LandingPage({
   setRequestLocale(locale);
   const t = await getTranslations("landing");
 
+  const tPast = await getTranslations("pastElection");
+
   return (
     <div className="space-y-10">
+      <aside className="space-y-1 rounded-lg border border-amber-400 bg-amber-50 p-4 text-amber-950">
+        <p className="font-semibold">{tPast("badge")}</p>
+        <p>{tPast("body")}</p>
+      </aside>
       <section className="space-y-4">
         <h1 className="text-3xl font-bold tracking-tight sm:text-4xl">
           {t("heading")}

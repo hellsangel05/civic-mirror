@@ -3,6 +3,10 @@
     "siteName": "Civic Mirror",
     "tagline": "Lo que aparece en tu boleta. En lenguaje claro."
   },
+  "pastElection": {
+    "badge": "Elección pasada — solo de referencia",
+    "body": "Esta guía cubre la boleta de noviembre de 2024 del condado de Los Ángeles."
+  },
   "nav": {
     "home": "Inicio",
     "ballot": "Mi boleta",

@@ -3,6 +3,10 @@
     "siteName": "Civic Mirror",
     "tagline": "See what's on your ballot. In plain English."
   },
+  "pastElection": {
+    "badge": "Past election — for reference only",
+    "body": "This guide covers the November 2024 Los Angeles County ballot."
+  },
   "nav": {
     "home": "Home",
     "ballot": "My ballot",
